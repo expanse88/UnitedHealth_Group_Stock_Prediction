@@ -57,7 +57,7 @@ Predict whether the stock price of UNH will go **up (`1`)** or **down (`0`)** th
 
 - **Prediction Chart**:
 
-  ![Prediction Chart](![image](https://github.com/user-attachments/assets/adf9f0ca-3c76-4cc5-8b7d-dea169c5e0dd)
+  (![image](https://github.com/user-attachments/assets/adf9f0ca-3c76-4cc5-8b7d-dea169c5e0dd)
 
 
 ---
