@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://1000logos.net/wp-content/uploads/2020/07/UnitedHealth-Group-Logo-tumb.jpg" alt="Project Logo" width="200"/>
+</p>
 # 📈 UnitedHealth Group (UNH) Stock Movement Prediction
 
 This project uses historical stock price data of **UnitedHealth Group (UNH)** to predict the **next day's stock movement** (up or down) using a **Random Forest Classifier**. It demonstrates how machine learning can be applied in financial market analysis with real stock data.
