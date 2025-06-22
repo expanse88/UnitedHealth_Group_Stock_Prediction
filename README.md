@@ -64,13 +64,15 @@ Predict whether the stock price of UNH will go **up (`1`)** or **down (`0`)** th
 ## ✅ Example Result
 
 ```
-Accuracy: 0.63
-              precision    recall  f1-score   support
+                  precision  recall  f1-score  support
 
-           0       0.60       0.58       0.59       100
-           1       0.66       0.68       0.67       120
+           0       0.47      0.46      0.46       180
+           1       0.51      0.51      0.51       195
 
-    accuracy                           0.63       220
+    accuracy                           0.49       375
+   macro avg       0.49      0.49      0.49       375
+weighted avg       0.49      0.49      0.49       375
+
 ```
 
 ---
