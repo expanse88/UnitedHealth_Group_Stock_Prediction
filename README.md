@@ -89,4 +89,4 @@ weighted avg       0.49      0.49      0.49       375
 ## 👨‍💻 Author
 
 Harshit Nahata  
-Computer Science & Engineering | AI & Finance Enthusiast
+Technology Enthusiast
